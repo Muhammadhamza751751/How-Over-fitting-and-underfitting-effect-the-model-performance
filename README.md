@@ -9,7 +9,7 @@ This project explores overfitting and underfitting in machine learning, using th
 - Early Stopping: Prevents overfitting by halting training early.
 - K-Fold Cross Validation: Ensures model robustness across data splits.
 
-  Installation
+# Installation
 Clone the repository and run the command
 ```bash
 pip install -r requirements.txt
