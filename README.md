@@ -8,3 +8,8 @@ This project explores overfitting and underfitting in machine learning, using th
 - Regularization (L1, L2, L1_L2): Balances model complexity and performance.
 - Early Stopping: Prevents overfitting by halting training early.
 - K-Fold Cross Validation: Ensures model robustness across data splits.
+
+  Installation
+Clone the repository and run the command
+```bash
+pip install -r requirements.txt
