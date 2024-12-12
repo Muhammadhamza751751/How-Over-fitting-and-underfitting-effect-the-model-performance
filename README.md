@@ -10,6 +10,6 @@ This project explores overfitting and underfitting in machine learning, using th
 - K-Fold Cross Validation: Ensures model robustness across data splits.
 
 # Installation
-Clone the repository and run the command
+Clone the repository and run the command to install the libraries
 ```bash
 pip install -r requirements.txt
